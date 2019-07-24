@@ -1,0 +1,3 @@
+/home/sohila/CLionProjects/ball-trial/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sohila/CLionProjects/ball-trial/cmake-build-debug/CMakeFiles/ball_trial.dir
+/home/sohila/CLionProjects/ball-trial/cmake-build-debug/CMakeFiles/edit_cache.dir
